@@ -1,0 +1,46 @@
+{
+  "name": "growcsn-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "base64-img": "^1.0.4",
+    "base64url": "^3.0.1",
+    "bcryptjs": "^2.4.3",
+    "cbor": "^9.0.1",
+    "chance": "^1.1.8",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-fingerprint": "^1.2.2",
+    "fido2-lib": "^3.4.1",
+    "helmet": "^7.0.0",
+    "hpp": "^0.2.3",
+    "http": "0.0.1-security",
+    "https-proxy-agent": "^5.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.5.1",
+    "node-fetch": "^2.6.7",
+    "nodemailer": "^6.9.5",
+    "path": "^0.12.7",
+    "puppeteer": "^21.4.1",
+    "qs": "^6.11.0",
+    "rate-limiter-flexible": "^2.3.8",
+    "slugify": "^1.6.6",
+    "socket.io": "^4.6.1",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

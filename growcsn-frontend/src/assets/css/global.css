@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&family=Rubik:wght@400;600;700;800;900&display=swap');
+
+@font-face {
+    font-family: knight;
+    src: local("Pixel"), url(Kanit-ExtraBold.ttf) format("truetype");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: knight !important;
+}
+
+body {
+    background: radial-gradient(50% 50% at 50% 50%, #062843 0%, #011627 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+input,
+textarea,
+select {
+    border: none;
+    outline: none;
+    /* font-family: 'Open Sans', sans-serif; */
+}
+
+input {
+    -moz-appearance: textfield;
+  }
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+button {
+    border: none;
+    outline: none;
+    /* font-family: 'Open Sans', sans-serif; */
+    background-color: transparent;
+    cursor: pointer;
+}
+
+button:disabled,
+input:disabled {
+    cursor: not-allowed;
+}
+
+a {
+    text-decoration: none;
+}
+
+*::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+
+span.gradient-green {
+    background: linear-gradient(250deg, #00ffc2 0%, #00aa6d 100%), #a6cae8;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+span.gradient-yellow {
+    background: linear-gradient(250deg, #fca311 0%, #ffb703 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+span.gradient-blue {
+    background: linear-gradient(250deg, #3b7eb7 0%, #145081 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+span.gradient-blue-dark {
+    background: linear-gradient(90deg, #3f63ff 0%, #355aba 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+span.gradient-purple {
+    background: linear-gradient(250deg, #37367d 0%, #796bfb 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+span.gradient-red {
+    background: linear-gradient(250deg, #d15e5e 0%, #ff4545 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+span.gradient-pink {
+    background: linear-gradient(250deg, #cc5cb3 0%, #ff32d2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+span.gradient-orange {
+    background: linear-gradient(250deg, #ba7b4d 0%, #fe6b00 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+/* ###################################################################### */
+/* ####################### Optimized CSS Section ######################## */
+/* ###################################################################### */
+
+.text-green-gradient,
+.router-link-active .text-green-gradient-active,
+.router-link-exact-active .text-green-gradient-exact {
+    background: linear-gradient(255deg, #00ffc2 0%, #00aa6d 100%), #a6cae8;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.text-yellow-gradient,
+.router-link-active .text-yellow-gradient-active,
+.router-link-exact-active .text-yellow-gradient-exact {
+    background: linear-gradient(255deg, #fca311 0%, #ffb703 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.text-orange-gradient,
+.router-link-active .text-orange-gradient-active,
+.router-link-exact-active .text-orange-gradient-exact {
+    background: linear-gradient(255deg, #ff5c00 0%, #db7d48 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
