@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/53ee9d99-eade-44ee-8c0e-bf112df7e16c)crypto casino with features case battles, crash, dice duels, roll, cases, blackjack (multiplayer), mines, towers
+crypto casino with features case battles, crash, dice duels, roll, cases, blackjack (multiplayer), mines, towers
 
 It is very simple to run, you just need to enter the backend and type npm install npm run dev, and to run the frontend, you need to enter the commands npm install npm run serve.
 
@@ -16,4 +16,4 @@ I can provide installation for $250, you can contact me on telegram @blancos13
 ![image](https://github.com/user-attachments/assets/a383bd59-924b-4997-8501-1c348a9490eb)
 ![image](https://github.com/user-attachments/assets/97b05259-d5bb-456b-9d44-0eaba3b1ef4b)
 ![image](https://github.com/user-attachments/assets/c8cb2f3d-7b6a-44fc-a393-74833193a4f7)
-![image](https://github.com/user-attachments/assets/58fbfccc-2e03-481a-9540-df65be6fe133)
+
