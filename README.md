@@ -2,7 +2,7 @@ crypto casino with features case battles, crash, dice duels, roll, cases, blackj
 
 It is very simple to run, you just need to enter the backend and type npm install npm run dev, and to run the frontend, you need to enter the commands npm install npm run serve.
 
-I can provide installation for $250, you can contact me on telegram @blancos13
+I can provide installation for $250, you can contact me on telegram https://t.me/blancos13
 
 ![image](https://github.com/user-attachments/assets/989b3d9e-058b-4e72-92f6-b38c5bcd7903)
 
